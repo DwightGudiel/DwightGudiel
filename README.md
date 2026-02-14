@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Dwight Gudiel<br>I’m interested in web development<br>I’m currently learning Fronted development
+Hi, I’m Dwight Gudiel<br>I’m interested in web development<br>
 
 
 ## 🌐 Socials:
